@@ -34,3 +34,9 @@
 - Создание и управление доской canban
 - Оформление документации
 - Работа с git
+
+# Запуск
+- git clone https://github.com/NMRprod/taskManager.git
+- перейти в build/Desktop_Qt_6_9_3_MinGW_64_bit-release/release
+- запустить taskManager.exe
+
